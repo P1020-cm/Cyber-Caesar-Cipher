@@ -22,16 +22,18 @@ Cyber Caesar Cipher is a modern Python-based graphical encryption tool that allo
 
 ---
 
-## ▶ How to Run the Project
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/P1020-cm/Cyber-Caesar-Cipher.git
-
 ---
 
 ## 👨‍💻 Author
 
 **Paras Sorathiya**  
 Cybersecurity Student | Python & Security Tools Developer
+
+
+## ▶ How to Run the Project
+
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/P1020-cm/Cyber-Caesar-Cipher.git
+
 
