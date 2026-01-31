@@ -22,7 +22,7 @@ Cyber Caesar Cipher is a modern Python-based graphical encryption tool that allo
 
 ---
 
----
+
 
 ## 👨‍💻 Author
 
