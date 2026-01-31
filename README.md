@@ -29,6 +29,12 @@ Cyber Caesar Cipher is a modern Python-based graphical encryption tool that allo
 **Paras Sorathiya**  
 Cybersecurity Student | Python & Security Tools Developer
 
+---
+## 📦 Requirements
+- Python 3.x
+- Tkinter (pre-installed with Python)
+- Any OS (Linux, Windows, macOS)
+
 
 ## ▶ How to Run the Project
 
